@@ -1,3 +1,10 @@
+# Airflow
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+webserver_config.py
+logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
